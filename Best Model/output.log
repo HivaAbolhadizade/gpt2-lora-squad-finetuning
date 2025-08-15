@@ -1,0 +1,2 @@
+No label_names provided for model class `PeftModelForCausalLM`. Since `PeftModel` hides base models input arguments, if label_names is not given, label_names can't be set automatically within `Trainer`. Note that empty label_names list will be used instead.
+[34m[1mwandb[0m: [33mWARNING[0m Symlinked 5 files into the W&B run directory, call wandb.save again to sync new files.
