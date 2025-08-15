@@ -123,4 +123,3 @@ python Code/analyze_results.py --results_dir Experiment\ Results/
 - Radford, A., et al. (2019). Language Models are Unsupervised Multitask Learners.
 - Rajpurkar, P., et al. (2016). SQuAD: 100,000+ Questions for Machine Comprehension of Text. arXiv:1606.05250.
 
-For inquiries, contact Hiva Abolhadizadeh (Student ID: 400405004).
